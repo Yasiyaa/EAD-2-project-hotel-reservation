@@ -1,0 +1,6 @@
+hotel room 		- port 8080
+hotel package		- port 8081
+hotel reservation 	- port 8082
+users 			- port 8083
+
+run login.html file in live server and change the href in the logout button to current url to the login.html.
